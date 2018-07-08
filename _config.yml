@@ -16,9 +16,8 @@
 title: James Vanderburg
 email: james@vanderburg.org
 description: >- # this means to ignore newlines until "baseurl:"
-  Howdy! I'm James Vanderburg, a Computer Science student at Texas A&M University
-  and a former co-op at Gaslight Software in Cincinnati, Ohio, focused on building
-  functional and beautiful web-based solutions.
+  Howdy! I'm James Vanderburg, a Computer Science student at Texas A&M University.
+  Insert more description-y things here.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jameslvdb
