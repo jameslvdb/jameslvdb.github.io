@@ -29,6 +29,13 @@ theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
+navigation:
+  - text: Homepage
+    url: /
+  - text: Projects
+    url: /projects
+  - text: Contact
+    url: /contact
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
