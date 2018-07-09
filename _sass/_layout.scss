@@ -130,6 +130,11 @@
 .footer-col-2 {
   grid-column: 2;
 }
+
+.footer-col-3 {
+  grid-column: 3;
+}
+
 @include media-query($on-laptop) {
   .footer-col-1 {
     width: -webkit-calc(40% - (#{$spacing-unit} / 2));
