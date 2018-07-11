@@ -54,10 +54,8 @@ $on-laptop:        800px;
   padding-right: 50px;
 }
 
-.main-content {
-  h1 {
-    color: #5895d5;
-  }
+.main-content h1, .main-content h3 {
+  color: #3f7dbe;
 }
 
 /* Add a black background color to the top navigation */
