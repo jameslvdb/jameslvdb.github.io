@@ -5,6 +5,8 @@ permalink: /projects/
 ---
 # Projects
 ### Fish Camp Online
+- Spring 2018  
+
 [Fish Camp](https://www.tamu.edu/traditions/orientation/fish-camp/) is Texas
 A&M's four-day extended orientation program that serves over 6,000 incoming
 freshmen each year. This past year, over 2,500 students submitted counselor
@@ -21,10 +23,13 @@ applications, and keep track of their preferred applicants with a rating system.
 
 **Note:** In production, this application contains confidential information.
 Because of this, a demo on production is not possible at this time. A demo
-version is in the planning stages. However, the source code for the project is
-publicly available [here](https://github.com/bradenbird/fish-camp-project).
+version with example data is in the planning stages. However, the source code
+for the project is publicly available
+[here](https://github.com/bradenbird/fish-camp-project).
 
 ### Gaslight Team App
+- Summer 2018  
+
 [Gaslight](https://teamgaslight.com) is a software consultancy in Cincinnati, Ohio.
 During my internship with them over the summer of 2018, I helped update their
 team app, which is primarily used to track company metrics and their overall
