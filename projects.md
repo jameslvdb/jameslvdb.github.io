@@ -21,7 +21,8 @@ applications, and keep track of their preferred applicants with a rating system.
 
 **Note:** In production, this application contains confidential information.
 Because of this, a demo on production is not possible at this time. A demo
-version is in the planning stages.
+version is in the planning stages. However, the source code for the project is
+publicly available [here](https://github.com/bradenbird/fish-camp-project).
 
 ### Gaslight Team App
 [Gaslight](https://teamgaslight.com) is a software consultancy in Cincinnati, Ohio.
