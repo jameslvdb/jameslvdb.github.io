@@ -10,4 +10,4 @@ layout: homepage
 
 Fish Camp Online
 
-team.gaslight.co
+Gaslight Team App

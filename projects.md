@@ -21,10 +21,7 @@ and CSS frontend on top of a Postgres database. Our goal was to create a site
 where the ~100 staff members can write interview transcripts, review
 applications, and keep track of their preferred applicants with a rating system.
 
-**Note:** In production, this application contains confidential information.
-Because of this, a demo on production is not possible at this time. A demo
-version with example data is in the planning stages. However, the source code
-for the project is publicly available
+The source code for this project is publicly available
 [here](https://github.com/bradenbird/fish-camp-project).
 
 ### Gaslight Team App
