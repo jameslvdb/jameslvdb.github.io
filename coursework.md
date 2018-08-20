@@ -31,4 +31,54 @@ in existing courses.
 
 ## Completed
 
-###
+### Software Engineering (CSCE 431)
+Application of engineering approach to computer software design and development;
+life cycle models, software requirements and specification; conceptual model
+design; detailed design; validation and verification; design quality assurance;
+software design/development environments and project management.
+
+### Design and Analysis of Algorithms (CSCE 411)
+Study of computer algorithms for numeric and non-numeric problems; design
+paradigms; analysis of time and space requirements of algorithms; correctness of
+algorithms; NP-completeness and undecidability of problems.
+
+### Seminar (CSCE 481)
+Investigation and report by students on topics of current interest in computer
+science.
+
+### Programming Studio (CSCE 315)
+Intensive programming experience that integrates core concepts in Computer
+Science and familiarizes with a variety of programming/development tools and
+techniques; students work on 2 or 3 month-long projects each emphasizing a
+different specialization within Computer Science; focuses on programming
+techniques to ease code integration, reusability, and clarity.
+
+### Introduction to Computer Systems (CSCE 313)
+Introduction to system support for application programs, both on single node and
+over network including OS application interface, inter-process communication,
+introduction to system and network programming, and simple computer security
+concepts; hands-on lab assignments.
+
+### Programming Languages (CSCE 314)
+Explores the design space of programming languages via an in-depth study of two
+programming languages, one subject-oriented (Java), one functional (Haskell);
+focuses on idiomatic uses of each language, and on features characteristic for
+each language.
+
+### Computer Organization (CSCE 312)
+Introduction to computer systems from programmer's perspective including simple
+logic design, data representation and processor architecture, programming of
+processors, memory, control flow, input/output, and performance measurements;
+hands-on lab assignments.
+
+### Discrete Structures for Computing (CSCE 222)
+Provide mathematical foundations from discrete mathematics for analyzing
+computer algorithms, for both correctness and performance; introduction to
+models of computation, including finite state machines and Turing machines.
+
+### Data Structures and Algorithms (CSCE 221)
+Specification and implementation of basic abstract data types and their
+associated algorithms including stacks, queues, lists, sorting and selection,
+searching, graphs, and hashing; performance tradeoffs of different
+implementations and asymptotic analysis of running time and memory usage;
+includes the execution of student programs written in C++.
