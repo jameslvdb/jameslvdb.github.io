@@ -31,6 +31,7 @@ $on-laptop:        800px;
 
 .page-header {
   display: grid;
+  // background: linear-gradient(to right, #0f0c29, #302b63, #24243e); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   background-image: linear-gradient(135deg, #430098, #24C6DC);
   // background-image: linear-gradient(135deg, #9D70D0, #8A96E9, #42AECC);
   padding: 50px;
@@ -54,8 +55,11 @@ $on-laptop:        800px;
   padding-right: 50px;
 }
 
-.main-content h1, .main-content h3 {
-  color: #3f7dbe;
+.main-content {
+  h1, h2, h3 {
+    font-weight: bold;
+    color: black;
+  }
 }
 
 .main-content h4 {
