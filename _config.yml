@@ -16,8 +16,8 @@
 title: James Vanderburg
 email: james@vanderburg.org
 description: >- # this means to ignore newlines until "baseurl:"
-  Howdy! I'm James Vanderburg, a Computer Science student at Texas A&M University.
-  Insert more description-y things here.
+  Howdy! I'm James Vanderburg, a Computer Science student at Texas A&M University
+  and a former intern for Gaslight in Cincinnati, Ohio.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://james.vanderburg.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jameslvdb
@@ -35,10 +35,10 @@ navigation:
     url: /
   - text: Projects
     url: /projects/
-  - text: Contact
-    url: /contact/
   - text: Coursework
     url: /coursework/
+  - text: Contact
+    url: /contact/
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

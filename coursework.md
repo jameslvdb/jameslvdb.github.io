@@ -27,7 +27,7 @@ evaluation of complete retrieval systems.
 
 ### Scripting Languages (Special Topics, CSCE 489)
 Special topics in computer science that are new or unique that are not covered
-in existing courses.
+in existing courses (no specific description as of yet).
 
 ## Completed
 
