@@ -26,8 +26,11 @@ storage and retrieval systems and relates various techniques to design and
 evaluation of complete retrieval systems.
 
 ### Scripting Languages (Special Topics, CSCE 489)
-Special topics in computer science that are new or unique that are not covered
-in existing courses (no specific description as of yet).
+This course is a study of a class of programming languages and tools known as
+scripting languages. Topics include: writing scripts to control and connect
+other programs, file, directory and database manipulation, extending scripting
+languages to include new functionality, embedding functions of a scripting
+language in other tools, and the syntax and usage of regular expressions. 
 
 ## Completed
 
