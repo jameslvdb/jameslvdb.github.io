@@ -29,5 +29,9 @@ The source code for this project is publicly available
 
 [Gaslight](https://teamgaslight.com) is a software consultancy in Cincinnati, Ohio.
 During my internship with them over the summer of 2018, I helped update their
-team app, which is primarily used to track company metrics and their overall
-project schedule. The team app is a Rails application with a React frontend.
+internal team app. I built a scheduler for the application, using React and
+Rails to create a responsive calendar to give employees greater visibility into
+Gaslight’s ongoing projects and employee assignments. I learned React on the job,
+wrote RESTful APIs, and built ActiveRecord and ActiveModel objects to create the
+scheduler. I also performed ActiveRecord query optimization and collaborated
+with a designer.
