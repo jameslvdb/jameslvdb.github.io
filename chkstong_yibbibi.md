@@ -10,10 +10,10 @@ Did you ever hear the tragedy of Darth
 [Chkstong Yibbibi](http://faculty.cs.tamu.edu/caverlee/imgs/korean_style.jpg)
 The Wise?
 
-I thought not. It’s not a story the Jedi would tell you. It’s a Qksame Bapibko
-legend. Darth Chkstong Yibbibi was a Dark Lord of the Qksame Bapibko, so
-powerful and so wise he could use the Force to influence the midichlorians to
-create life…
+I thought not. It’s not a story the Jedi would tell you. It’s a Sith legend.
+Darth [Chkstong Yibbibi](http://people.tamu.edu/~bradenbird) was a Dark Lord of
+the Sith, so powerful and so wise he could use the Force to influence the
+midichlorians to create life…
 
 He had such a knowledge of the dark side that he could even keep the ones he
 cared about from dying. The dark side of the Force is a pathway to many
