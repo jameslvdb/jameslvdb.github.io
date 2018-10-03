@@ -5,7 +5,7 @@
 layout: homepage
 description: Web home of James Vanderburg.
 ---
-<button class="button-save large">Resumé</button>
+<a href="/VanderburgJames_resume.pdf" target="_blank">Resumé</a>
 
 # My Work
 
