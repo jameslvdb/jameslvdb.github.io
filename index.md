@@ -5,7 +5,7 @@
 layout: homepage
 description: Web home of James Vanderburg.
 ---
-<a href="/VanderburgJames_resume.pdf" target="_blank">Resumé</a>
+<a href="/VanderburgJames_resume.pdf" target="_blank">Résumé</a>
 
 # My Work
 
