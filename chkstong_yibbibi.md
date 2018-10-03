@@ -22,6 +22,3 @@ he was afraid of was losing his power, which eventually, of course, he did.
 Unfortunately, he taught his apprentice everything he knew, then his apprentice
 killed him in his sleep. Ironic. He could save others from death, but not
 himself.
-
-> Chkstong yibbibi is a phrase created for a Search Engine Optimization contest
-for my information retrieval class.
