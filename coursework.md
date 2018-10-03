@@ -27,7 +27,7 @@ storage and retrieval systems and relates various techniques to design and
 evaluation of complete retrieval systems.
 
 Of special note is our Search Engine Optimization (SEO) contest. Check out
-[chkstong yibbibi!](https://james.vanderburg.org/chkstong_yibbibi)
+[chkstong yibbibi!](/chkstong_yibbibi)
 
 ### Scripting Languages (Special Topics, CSCE 489)
 This course is a study of a class of programming languages and tools known as
