@@ -2,6 +2,7 @@
 layout: post
 title: Projects
 permalink: /projects/
+description: Projects I have completed
 ---
 # Projects
 ### Fish Camp Online

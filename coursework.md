@@ -2,6 +2,7 @@
 layout: post
 title: Coursework
 permalink: /coursework/
+description: Relevant computer science coursework taken at Texas A&M University.
 ---
 # Coursework
 
@@ -25,12 +26,15 @@ collections; fundamental data structures and algorithms of current information
 storage and retrieval systems and relates various techniques to design and
 evaluation of complete retrieval systems.
 
+Of special note is our Search Engine Optimization (SEO) contest. Check out
+[chkstong yibbibi!](https://james.vanderburg.org/chkstong_yibbibi)
+
 ### Scripting Languages (Special Topics, CSCE 489)
 This course is a study of a class of programming languages and tools known as
 scripting languages. Topics include: writing scripts to control and connect
 other programs, file, directory and database manipulation, extending scripting
 languages to include new functionality, embedding functions of a scripting
-language in other tools, and the syntax and usage of regular expressions. 
+language in other tools, and the syntax and usage of regular expressions.
 
 ## Completed
 
