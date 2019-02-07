@@ -5,6 +5,18 @@ permalink: /projects/
 description: Projects I have completed
 ---
 # Projects
+### Gaslight Team App
+- Summer 2018  
+
+[Gaslight](https://teamgaslight.com) is a software consultancy in Cincinnati, Ohio.
+During my internship with them over the summer of 2018, I helped update their
+internal team app, which is a Rails application with a React frontend. I helped build
+a scheduler for the application, which is a responsive
+calendar to give employees greater visibility into Gaslight’s ongoing projects
+and employee assignments. I learned React on the job, wrote RESTful APIs, and
+built ActiveRecord and ActiveModel objects to create the scheduler. I also
+performed ActiveRecord query optimization and collaborated with a designer.
+
 ### Fish Camp Online
 - Spring 2018  
 
@@ -24,15 +36,3 @@ applications, and keep track of their preferred applicants with a rating system.
 
 The source code for this project is publicly available
 [here](https://github.com/bradenbird/fish-camp-project).
-
-### Gaslight Team App
-- Summer 2018  
-
-[Gaslight](https://teamgaslight.com) is a software consultancy in Cincinnati, Ohio.
-During my internship with them over the summer of 2018, I helped update their
-internal team app, which is a Rails application with a React frontend. I helped build
-a scheduler for the application, which is a responsive
-calendar to give employees greater visibility into Gaslight’s ongoing projects
-and employee assignments. I learned React on the job, wrote RESTful APIs, and
-built ActiveRecord and ActiveModel objects to create the scheduler. I also
-performed ActiveRecord query optimization and collaborated with a designer.
