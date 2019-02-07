@@ -13,6 +13,28 @@ Catalog.](http://catalog.tamu.edu/undergraduate/engineering/computer-science/#co
 
 ## In Progress
 
+### Computer and Network Security (CSCE 465)
+Fundamental concepts and principles of computer security, operating system and
+network security, secret key and public key cryptographic algorithms, hash
+functions, authentication, firewalls and intrusion detection systems, IPSec and
+VPN, wireless and web security.
+
+### Computer-Human Interaction (CSCE 436)
+Comprehensive study of the Computer-Human Interaction (CHI) area; includes
+history and importance of CHI; CHI design theories; modeling of computer users
+and interfaces; empirical techniques for task analysis and interface design;
+styles of interaction and future directions of CHI including hypermedia and
+computer-supported collaborative work.
+
+### Senior Capstone Design (CSCE 482)
+Project-based course to develop system integration skills for solving real-world
+problems in computer science; significant team software project that integrates
+advanced concepts across computer science specializations; projects require
+design, implementation, documentation and demonstration, as well as design
+methodology, management process and teamwork.
+
+## Completed
+
 ### Artificial Intelligence (CSCE 420)
 Fundamental concepts and techniques of intelligent systems; representation and
 interpretation of knowledge on a computer; search strategies and control; active
@@ -32,8 +54,6 @@ scripting languages. Topics include: writing scripts to control and connect
 other programs, file, directory and database manipulation, extending scripting
 languages to include new functionality, embedding functions of a scripting
 language in other tools, and the syntax and usage of regular expressions.
-
-## Completed
 
 ### Software Engineering (CSCE 431)
 Application of engineering approach to computer software design and development;
