@@ -31,7 +31,7 @@ plugins:
   - jekyll-feed
 
 navigation:
-  - text: Homepage
+  - text: Home
     url: /
   - text: Projects
     url: /projects/
