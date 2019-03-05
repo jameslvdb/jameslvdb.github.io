@@ -5,7 +5,12 @@
 layout: homepage
 description: Web home of James Vanderburg.
 ---
-<a href="/VanderburgJames_resume.pdf" target="_blank">Resume</a>
+I'm looking for work! Get my resume
+[here.]({{ site.baseurl }}{% link /VanderburgJames_resume.pdf %}){:target="_ blank"}
+{::comment}
+Using "_ blank" with a space so the underscore doesn't mess up syntax highlighting.
+{:/comment}
+
 
 # My Work
 
