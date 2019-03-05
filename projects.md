@@ -13,9 +13,10 @@ During my internship with them over the summer of 2018, I helped update their
 internal team app, which is a Rails application with a React frontend. I helped build
 a scheduler for the application, which is a responsive
 calendar to give employees greater visibility into Gaslight’s ongoing projects
-and employee assignments. I learned React on the job, wrote RESTful APIs, and
-built ActiveRecord and ActiveModel objects to create the scheduler. I also
-performed ActiveRecord query optimization and collaborated with a designer.
+and employee assignments. I participated in user story mapping, learned React on
+the job, wrote RESTful APIs, and built ActiveRecord and ActiveModel objects to
+create the scheduler. I also performed ActiveRecord query optimization,
+collaborated with a designer, and pair programmed with other interns daily.
 
 ### Fish Camp Online
 - Spring 2018  
