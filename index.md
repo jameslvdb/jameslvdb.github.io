@@ -5,10 +5,10 @@
 layout: homepage
 description: Web home of James Vanderburg.
 ---
-<a href="/VanderburgJames_resume.pdf" target="_blank">Résumé</a>
+<a href="/VanderburgJames_resume.pdf" target="_blank">Resume</a>
 
 # My Work
 
-Fish Camp Online
+[Fish Camp Online](/projects/#fish-camp-online)
 
-Gaslight Team App
+[Gaslight Team App](/projects/#gaslight-team-app)
