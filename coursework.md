@@ -7,9 +7,14 @@ description: Relevant computer science coursework taken at Texas A&M University.
 # Coursework
 
 Below is a listing of my relevant Computer Science coursework at Texas A&M in
-reverse chronological order. Course descriptions are taken from the [Texas A&M
-Undergraduate
-Catalog.](http://catalog.tamu.edu/undergraduate/engineering/computer-science/#coursestext)
+reverse chronological order, as well as other selected courses outside of Computer
+Science. Course descriptions are taken from the [Texas A&M Undergraduate
+Catalog.](http://catalog.tamu.edu/undergraduate/engineering/computer-science/#coursestext){:target="_ blank"}
+
+**Quick Links:**
+ - [In Progress](#in-progress)
+ - [Completed](#completed)
+ - [Other Courses](#other-courses)
 
 ## In Progress
 
@@ -106,3 +111,33 @@ associated algorithms including stacks, queues, lists, sorting and selection,
 searching, graphs, and hashing; performance tradeoffs of different
 implementations and asymptotic analysis of running time and memory usage;
 includes the execution of student programs written in C++.
+
+## Other Courses
+
+### Survey of Finance Principles
+Finance survey for non-business majors; financial markets, the investment
+banking process, interest rates, financial intermediaries and the banking system,
+financial instruments, time value of money concepts, security valuation and
+selection, and international finance. 
+
+### Principles of Marketing (MKTG 409)
+Survey of the basic concepts and decisions associated with product, promotion,
+distribution, and pricing; focuses on developing marketing strategies that
+contribute to building long-term customer relationships and achieving the
+organization's objectives.
+
+### Business, Government and Society (MGMT 209)
+Impact of the external environment-legal, political, economic and international-on
+business behavior; market and non-market solutions to contemporary public policies
+confronting business persons examined including antitrust law, employment and
+discrimination law, product safety regulation, consumer protection and ethics.
+
+### Business Information Systems Concepts (ISTM 209)
+Introduction to the use of computers in data and document management and as a
+problem-solving tool for business; fundamental concepts of information technology
+and theory; opportunities to use existing application software to solve various
+business information systems oriented problems.
+
+### Survey of Accounting Principles (ACCT 209)
+Accounting survey for non-business majors; non-technical accounting procedures,
+preparation and interpretation of financial statements and internal control.
