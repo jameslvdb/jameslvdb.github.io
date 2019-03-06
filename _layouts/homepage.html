@@ -1,3 +1,5 @@
+{% assign posts_total = site.posts | size %}
+
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
@@ -47,6 +49,10 @@
 
     <main id="content" class="main-content" role="main">
       {{ content }}
+
+      {% unless posts_total == 0 %}
+        {% include thoughts.html %}
+      {% endunless %}
 
       {% include footer.html %}
     </main>
