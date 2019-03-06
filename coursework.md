@@ -114,11 +114,11 @@ includes the execution of student programs written in C++.
 
 ## Other Courses
 
-### Survey of Finance Principles
+### Survey of Finance Principles (FINC 409)
 Finance survey for non-business majors; financial markets, the investment
 banking process, interest rates, financial intermediaries and the banking system,
 financial instruments, time value of money concepts, security valuation and
-selection, and international finance. 
+selection, and international finance.
 
 ### Principles of Marketing (MKTG 409)
 Survey of the basic concepts and decisions associated with product, promotion,
