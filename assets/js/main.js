@@ -5,6 +5,7 @@ var normal_description = "Howdy! I'm James Vanderburg, a Computer Science studen
 
 $(window).resize(function () {
   if ($( window ).width() < 720) {
+    // Change this to something decently descriptive 
     $(".project-tagline").html("James Vanderburg")
   } else {
     $(".project-tagline").html(normal_description)
