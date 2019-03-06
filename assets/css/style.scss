@@ -37,9 +37,6 @@ $on-laptop:        800px;
   background-image: linear-gradient(135deg, #430098, #24C6DC);
   // background-image: linear-gradient(135deg, #9D70D0, #8A96E9, #42AECC);
   padding: 50px;
-  td {
-    min-width: 250px;
-  }
 }
 
 .profile-picture {
@@ -59,13 +56,16 @@ $on-laptop:        800px;
 }
 
 @media all and (max-width: 720px) {
-    .profile-picture {
-      display: none;
-    }
-    .project-tagline {
-      padding-left: 25px;
-      padding-right: 25px;
-    }
+  .page-header {
+    padding: 0px;
+  }
+  .profile-picture {
+    display: none;
+  }
+  .project-tagline {
+    padding: 15px;
+    flex: 1 1 0;
+  }
 }
 
 .main-content {

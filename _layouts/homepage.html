@@ -3,6 +3,7 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <meta charset="UTF-8">
 
 {% seo %}
@@ -31,7 +32,6 @@
         src="../assets/images/james_bw.jpg"
         alt="James Vanderburg"
       >
-      <!-- <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1> -->
       <h1 class="project-tagline">
         {{ site.description | default: site.github.project_tagline }}
       </h1>
@@ -55,6 +55,7 @@
       {% endunless %}
 
       {% include footer.html %}
+      <script src="{{ base.url | prepend: site.url }}/assets/js/main.js"></script>
     </main>
 
     {% if site.google_analytics %}
