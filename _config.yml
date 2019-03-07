@@ -32,6 +32,8 @@ kramdown:
 theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
+gems:
+  - jekyll-octicons
 
 navigation:
   - text: Home
