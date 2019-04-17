@@ -32,6 +32,10 @@ the job, wrote RESTful APIs, and built ActiveRecord and ActiveModel objects to
 create the scheduler. I also performed ActiveRecord query optimization,
 collaborated with a designer, and pair programmed with other interns daily.
 
+The scheduler shows engagements and assignments on a four- or twelve-week basis (in addition to showing one week in the past). Assignments are shown/hidden underneath each project by clicking on the engagement's bar. Previous and future engagements can also be shown by using the weekly navigation buttons in the top right corner. Below is a screenshot of the scheduler showing the "Bench" engagement expanded (assignments here represent a lack of assignment elsewhere for a given week). Employees can be added to an engagement using the **+** button, and the engagement itself can be edited with the notepad button.
+
+![teamapp]({{ site.baseurl }}/assets/images/team_app_bench_expanded.png)
+
 ### Fish Camp Online
 - Spring 2018  
 
