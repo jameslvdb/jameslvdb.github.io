@@ -51,6 +51,14 @@
     <main id="content" class="main-content" role="main">
       {{ content }}
 
+      {% if site.skills %}
+        {% include skills.html %}
+      {% endif %}
+
+      {% if site.interests %}
+        {% include interests.html %}
+      {% endif %}
+
       {% unless posts_total == 0 %}
         {% include thoughts.html %}
       {% endunless %}
