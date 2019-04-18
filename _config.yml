@@ -32,7 +32,7 @@ kramdown:
 theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
-gems:
+plugins:
   - jekyll-octicons
 
 navigation:
