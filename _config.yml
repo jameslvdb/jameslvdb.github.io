@@ -81,6 +81,9 @@ interests:
     web_url: https://github.com/topics/clojure
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/clojure/clojure.png
 
+  - name: Go
+    web_url: https://github.com/topics/go
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
