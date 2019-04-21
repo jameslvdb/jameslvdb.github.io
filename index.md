@@ -5,6 +5,8 @@
 layout: homepage
 description: Web home of James Vanderburg.
 ---
+{% assign posts_total = site.posts | size %}
+
 I'm looking for work! Get my resume
 [here.]({{ site.baseurl }}{% link /VanderburgJames_resume.pdf %}){:target="_ blank"}
 {::comment}
@@ -17,3 +19,15 @@ Using "_ blank" with a space so the underscore doesn't mess up syntax highlighti
 [Fish Camp Online](/projects/#fish-camp-online)
 
 [Gaslight Team App](/projects/#gaslight-team-app)
+
+{% if site.skills %}
+  {% include skills.html %}
+{% endif %}
+
+{% if site.interests %}
+  {% include interests.html %}
+{% endif %}
+
+{% unless posts_total == 0 %}
+  {% include thoughts.html %}
+{% endunless %}
