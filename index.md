@@ -16,9 +16,11 @@ Using "_ blank" with a space so the underscore doesn't mess up syntax highlighti
 
 # My Work
 
+[Gaslight Team App](/projects/#gaslight-team-app)  
+[eCampus Redesign](/projects/#ecampus-redesign)  
+[Dungeons & Dragons](/projects/#dungeons-dragons)  
 [Fish Camp Online](/projects/#fish-camp-online)
 
-[Gaslight Team App](/projects/#gaslight-team-app)
 
 {% if site.skills %}
   {% include skills.html %}

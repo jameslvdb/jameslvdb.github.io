@@ -33,7 +33,7 @@ During my final year at Texas A&M, I got much more interested in front-end devel
   {% include ecampus-card.html %}
 </div>
 
-### Dungeons & Dragons
+### Dungeons & Dragons {#dungeons-dragons}
 - Ongoing
 
 I picked up Dungeons & Dragons while I was in college. I found that flipping through the books during a game was rather tedious, and I wanted to have some sort of application that would let me quickly reference different rules and material. I found that no existing tools quite fit my needs, but the data I needed was readily available, so I created a Rails app from scratch and started building. This is a major exercise in iterative design and data modeling. Some things in D&D can be modeled consistently. Weapons have all the same attributes. Spells are a little less consistent. But descriptions for monsters are inconsistent and open-ended. This is a project that is continually evolving. I don't feel quite ready to show off the source code yet, but I am more that willing to discuss it!
