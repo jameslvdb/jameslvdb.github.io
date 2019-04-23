@@ -22,6 +22,17 @@ The scheduler shows engagements and assignments on a four- or twelve-week basis 
 
 ![teamapp]({{ site.baseurl }}/assets/images/team_app_bench_expanded.png)
 
+### eCampus Redesign
+- April 2019
+
+During my final year at Texas A&M, I got much more interested in front-end development and usability. In the spring of 2019, I took [Computer-Human Interaction]({{ site.baseurl }}/coursework/#computer-human-interaction-csce-436) to learn more. One assignment during the semester was designing a mockup for a solution to a usability problem that we had observed. We chose to look at eCampus, Texas A&M's learning management system. It has its share of issues, but we focused on consolidating data and reducing the number of clicks required to access information. I used React to quickly build a single-page app as an example of what a simpler homepage would look like.
+
+![ecampus]({{ site.baseurl }}/assets/images/ecampus_redesign.png)
+
+<div class="col-sm-6 col-md-12 col-lg-6 col-xl-4 mb-3">
+  {% include ecampus-card.html %}
+</div>
+
 ### Dungeons & Dragons
 - Ongoing
 
