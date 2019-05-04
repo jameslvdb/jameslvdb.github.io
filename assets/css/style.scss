@@ -2,7 +2,7 @@
 ---
 @import "{{ site.theme }}";
 @import url('https://unpkg.com/primer/build/build.css');
-@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,700');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300');
 
 // Our variables
 $base-font-size:   16px;
@@ -11,7 +11,7 @@ $base-line-height: 1.5;
 
 $spacing-unit:     30px;
 
-$text-color:       #111;
+$text-color:       #333;
 $background-color: #fdfdfd;
 $brand-color:      #2a7ae2;
 
