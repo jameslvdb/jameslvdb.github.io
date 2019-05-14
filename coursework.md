@@ -12,11 +12,10 @@ Science. Course descriptions are taken from the [Texas A&M Undergraduate
 Catalog.](http://catalog.tamu.edu/undergraduate/engineering/computer-science/#coursestext){:target="_ blank"}
 
 **Quick Links:**
- - [In Progress](#in-progress)
  - [Completed](#completed)
  - [Other Courses](#other-courses)
 
-## In Progress
+## Completed
 
 ### Computer and Network Security (CSCE 465)
 Fundamental concepts and principles of computer security, operating system and
@@ -37,8 +36,6 @@ problems in computer science; significant team software project that integrates
 advanced concepts across computer science specializations; projects require
 design, implementation, documentation and demonstration, as well as design
 methodology, management process and teamwork.
-
-## Completed
 
 ### Artificial Intelligence (CSCE 420)
 Fundamental concepts and techniques of intelligent systems; representation and
