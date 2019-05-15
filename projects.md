@@ -6,13 +6,6 @@ description: Projects I have completed
 ---
 # Projects
 
-{::comment}
-### Capstone Project
-- Spring 2019
-
-At Texas A&M, all computer science students are required to take a [capstone course]({{ site.baseurl }}/coursework#senior-capstone-design-csce-482){:target="_ blank"}. For my project, I worked with my team to build an application to harness the power of large touchscreen displays to enhance the tabletop roleplaying game experience. We used Unity and a Perceptive Pixel display from Microsoft to build our application.
-{:/comment}
-
 ### Gaslight Team App
 - Summer 2018  
 
