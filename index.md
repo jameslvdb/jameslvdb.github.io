@@ -7,13 +7,6 @@ description: Web home of James Vanderburg.
 ---
 {% assign posts_total = site.posts | size %}
 
-I'm looking for work! Get my resume
-[here.]({{ site.baseurl }}{% link /VanderburgJames_resume.pdf %}){:target="_ blank"}
-{::comment}
-Using "_ blank" with a space so the underscore doesn't mess up syntax highlighting.
-{:/comment}
-
-
 # My Work
 
 [Gaslight Team App](/projects/#gaslight-team-app)  
