@@ -16,9 +16,7 @@
 title: James Vanderburg
 email: james@vanderburg.org
 description: >- # this means to ignore newlines until "baseurl:"
-  Howdy! I'm James Vanderburg, a Computer Science graduate from Texas A&M University
-  looking for opportunities to solve new problems frequently, gain experience
-  with various technologies quickly, and change the world for the better for clients.
+  Howdy! I'm James Vanderburg, a software developer at USAA in Plano, Texas.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://james.vanderburg.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jameslvdb
