@@ -16,9 +16,7 @@
 title: James Vanderburg
 email: james@vanderburg.org
 description: >- # this means to ignore newlines until "baseurl:"
-  Howdy! I'm James Vanderburg, a Computer Science graduate from Texas A&M University
-  looking for opportunities to solve new problems frequently, gain experience
-  with various technologies quickly, and change the world for the better for clients.
+  Howdy! I'm James Vanderburg, a software developer at USAA in Plano, Texas.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://james.vanderburg.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jameslvdb
@@ -52,6 +50,10 @@ skills:
     web_url: https://github.com/topics/ruby
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png
 
+  - name: Java
+    web_url: https://github.com/topics/java
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png
+
   - name: React
     web_url: https://github.com/topics/react
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png
@@ -64,24 +66,18 @@ skills:
     web_url: https://github.com/topics/python
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png
 
-  - name: C++
-    web_url: https://github.com/topics/cpp
-    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png
-
 interests:
   - name: Elixir
     web_url: https://github.com/topics/elixir
     image_url: https://raw.githubusercontent.com/github/explore/d106aa3f6fa091ab80ab5c8cf0d931baff3caaea/topics/elixir/elixir.png
 
-  - name: Clojure
-    web_url: https://github.com/topics/clojure
-    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/clojure/clojure.png
+  - name: Spring Boot
+    web_url: https://github.com/topics/spring-boot
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png
 
-  - name: Go
-    web_url: https://github.com/topics/go
-    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png
-
-  - name: Open source
+  - name: Open Source
+    web_url: https://github.com/open-source
+    image_url: https://avatars1.githubusercontent.com/u/9919?s=200&v=4
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
