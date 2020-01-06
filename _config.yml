@@ -40,6 +40,8 @@ navigation:
     url: /projects/
   - text: Contact
     url: /contact/
+  - text: Resume
+    url: /resume/
 
 skills:
   - name: Rails
