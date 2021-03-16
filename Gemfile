@@ -18,4 +18,4 @@ gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 # Added at 2018-07-07 20:45:09 -0400 by jamesvanderburg:
-gem "jekyll-theme-cayman", "~> 0.1.1"
+gem "jekyll-theme-cayman"
