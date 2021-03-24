@@ -12,4 +12,3 @@ I'm currently a Software Engineer at USAA in Plano, Texas, where I build softwar
 ## Contact Me
 
 If you'd like to get in touch with me, the easiest way is to shoot me an email at [james@vanderburg.org](mailto:james@vanderburg.org)!
-
