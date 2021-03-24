@@ -5,8 +5,13 @@ const disabledCss = {
   "code::after": false,
 }
 
+console.log(process.env.NODE_ENV);
+
 module.exports = {
-  purge: [],
+  purge: [
+    './**/*.njk',
+    './**/*.md',
+  ],
   presets: [],
   darkMode: false, // or 'media' or 'class'
   theme: {
