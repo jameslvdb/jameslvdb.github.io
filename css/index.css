@@ -2217,6 +2217,7 @@ button:focus {
 }
 
 .sticky {
+  position: -webkit-sticky;
   position: sticky;
 }
 
