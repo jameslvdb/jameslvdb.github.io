@@ -1,9 +1,8 @@
 ---
-layout: layouts/markdown.njk
+layout: page
+title: Projects
 permalink: /projects/
-eleventyNavigation:
-  key: Projects
-  order: 2
+published: false
 ---
 
 # Projects
