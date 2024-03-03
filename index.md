@@ -7,7 +7,9 @@ eleventyNavigation:
 
 # Howdy!
 
-I'm currently a Software Engineer at the PGA of America in Frisco, Texas, where I'm building software with Ruby on Rails, GraphQL, and React to support PGA members. For my personal projects, I'm mostly building apps in Ruby on Rails or Elixir and Phoenix.
+I'm James! I'm a software engineer and tech lead at the [PGA of America](https://www.pga.com),
+where I'm using Ruby on Rails, GraphQL, and React to build coaching tools for PGA Professionals. I love reading, music, golfing (badly), trying new barbecue, and cheering on my favorite sports
+teams.
 
 ## Contact Me
 
