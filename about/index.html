@@ -22,11 +22,11 @@
             <li class=" text-white  mx-2">
               <a href="/" class="p-2">Home</a>
             </li>
-            <li class=" rounded-lg bg-white text-black font-bold  mx-2">
-              <a href="/projects/" class="p-2">Projects</a>
-            </li>
             <li class=" text-white  mx-2">
               <a href="/resume/" class="p-2">Resume</a>
+            </li>
+            <li class=" rounded-lg bg-white text-black font-bold  mx-2">
+              <a href="/about/" class="p-2">About</a>
             </li>
         </ul>
       </div>
@@ -35,27 +35,12 @@
     <br>
 
     <main class="w-3/4 max-w-3xl flex-grow self-center pt-8">
-      <article class="prose md:prose-xl py-4 max-w-none">
-  <h1 id="projects">Projects</h1>
-<h3 id="gaslight-team-app">Gaslight Team App</h3>
-<ul>
-<li>Summer 2018</li>
-</ul>
-<p><a href="https://teamgaslight.com">Gaslight</a> is a software consultancy in Cincinnati, Ohio. During my internship with them over the summer of 2018, I helped update their internal team app, which is a Rails application with a React frontend. I helped build a scheduler for the application, which is a responsive calendar to give employees greater visibility into Gaslight’s ongoing projects and employee assignments. I participated in user story mapping, learned React on the job, wrote RESTful APIs, and built ActiveRecord and ActiveModel objects to create the scheduler. I also performed ActiveRecord query optimization, collaborated with a designer, and pair programmed with other interns daily.</p>
-<p>The scheduler shows engagements and assignments on a four- or twelve-week basis (in addition to showing one week in the past). Assignments are shown/hidden underneath each project by clicking on the engagement's bar. Previous and future engagements can also be shown by using the weekly navigation buttons in the top right corner. Below is a screenshot of the scheduler showing the &quot;Bench&quot; engagement expanded (assignments here represent a lack of assignment elsewhere for a given week). Employees can be added to an engagement using the <strong>+</strong> button, and the engagement itself can be edited with the notepad button.</p>
-<!-- ![teamapp](/assets/images/team_app_bench_expanded.png) -->
-<h3 id="dungeons-%26-dragons">Dungeons &amp; Dragons</h3>
-<ul>
-<li>Ongoing</li>
-</ul>
-<p>I picked up Dungeons &amp; Dragons while I was in college. I found that flipping through the books during a game was rather tedious, and I wanted to have some sort of application that would let me quickly reference different rules and material. I found that no existing tools quite fit my needs, but the data I needed was readily available, so I created a Rails app from scratch and started building. This is a major exercise in iterative design and data modeling. Some things in D&amp;D can be modeled consistently. Weapons have all the same attributes. Spells are a little less consistent. But descriptions for monsters are inconsistent and open-ended. This is a project that is continually evolving. I don't feel quite ready to show off the source code yet, but I am more that willing to discuss it!</p>
-<!-- ![dnd](/assets/images/dnd.png) -->
-<h3 id="fish-camp-online">Fish Camp Online</h3>
-<ul>
-<li>Spring 2018</li>
-</ul>
-<p><a href="https://www.tamu.edu/traditions/orientation/fish-camp/">Fish Camp</a> is Texas A&amp;M's four-day extended orientation program that serves over 6,000 incoming freshmen each year. This past year, over 2,500 students submitted counselor applications. Previously, directors would spend several hours <em>each day</em> manually preparing applications during the three week review period. They would create PDFs every day by consolidating application and interview data into an Access database, and they had to manually perform data validation. Fish Camp needed a better way to review these applications.</p>
-<p>Our solution, Fish Camp Online, is a Rails application with a lightweight HTML and CSS frontend on top of a Postgres database. Our goal was to create a site where the ~100 staff members can write interview transcripts, review applications, and keep track of their preferred applicants with a rating system.</p>
+      <article 
+  class="prose md:prose-xl py-4 max-w-none prose-a:text-blue-600 hover:prose-a:text-blue-800"
+>
+  <h1 id="about-me">About Me</h1>
+<p>I'm <strong>James Vanderburg</strong>. I currently work for the <a href="https://www.pga.com">PGA of America</a> as a software engineer and a tech lead. I help build the PGA Coach and MyPGA apps, which support the golf coaching businesses of PGA Professionals nationwide. I primarily write software with Ruby on Rails and React, although Elixir has been occupying much of my tinkering lately.</p>
+<p>Prior to the PGA, I spent two years at <a href="https://usaa.com">USAA</a> building Spring Boot microservices as a part of their operational messaging organization. I helped build large reactive systems to reach USAA's millions of members quickly. I also graduated from Texas A&amp;M University with a degree in Computer Science, and spent a summer with the wonderful folks at <a href="https://launchscout.com">Launch Scout</a> as an intern.</p>
 
 </article>
 
@@ -127,6 +112,6 @@
   </div>
 </footer>
 
-    <!-- Current page: /projects/ -->
+    <!-- Current page: /about/ -->
   </body>
 </html>

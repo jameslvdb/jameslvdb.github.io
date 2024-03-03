@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://james.vanderburg.org/about/</loc>
+    <lastmod>2024-03-03</lastmod>
+  </url>
+  
+  <url>
     <loc>https://james.vanderburg.org/</loc>
     <lastmod>2024-03-03</lastmod>
   </url>
   
   <url>
     <loc>https://james.vanderburg.org/page-list/</loc>
-    <lastmod>2024-03-03</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://james.vanderburg.org/projects/</loc>
     <lastmod>2024-03-03</lastmod>
   </url>
   
