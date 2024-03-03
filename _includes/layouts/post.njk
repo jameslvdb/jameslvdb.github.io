@@ -1,9 +1,13 @@
 ---
 layout: layouts/base.njk
 ---
-<h1>{{ title }}</h1>
+<h1 class="text-5xl font-black pb-8">{{ title }}</h1>
 
-{{ content | safe }}
+<em class="prose md:prose-xl">{{ date }}</em>
+
+<article class="prose md:prose-xl py-4 max-w-none prose-a:text-blue-600 hover:prose-a:text-blue-800"
+  {{ content | safe }}
+</article
 
 <hr>
 <ul>
