@@ -2,13 +2,15 @@
 {% for post in postslist | reverse %}
   <li>
     <a href="{{ post.url | url }}" class="underline text-blue-600 hover:text-blue-800 visited:text-indigo-700">{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</a>
-    <time class="postlist-date" datetime="{{ post.date | htmlDateString }}"> - {{ post.date | readableDate }}</time>
+    <time datetime="{{ post.date | htmlDateString }}"> - {{ post.date | readableDate }}</time>
+    {#
     {% for tag in post.data.tags %}
       {%- if collections.tagList.indexOf(tag) != -1 -%}
       {% set tagUrl %}/tags/{{ tag }}/{% endset %}
-      <a href="{{ tagUrl | url }}" class="post-tag">{{ tag }}</a>
+      <a href="{{ tagUrl | url }}" class="inline-flex items-center justify-center capitalize italic border-2 p-1 rounded">{{ tag }}</a>
       {%- endif -%}
     {% endfor %}
+    #}
   </li>
 {% endfor %}
 </ol>
