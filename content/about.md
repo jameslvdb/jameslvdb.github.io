@@ -3,7 +3,7 @@ title: About Me
 layout: layouts/markdown.njk
 eleventyNavigation:
     key: About
-    order: 4
+    order: 5
 ---
 
 <h1 class="text-5xl font-black">About Me</h1>
