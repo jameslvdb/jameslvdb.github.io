@@ -2,7 +2,6 @@
 title: The Game of School
 date: 2024-03-03
 tags: 
-    - posts
     - tech
     - career
 layout: layouts/post.njk
