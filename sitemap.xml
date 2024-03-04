@@ -57,17 +57,17 @@
   </url>
   
   <url>
-    <loc>https://james.vanderburg.org/tags/quotes/</loc>
-    <lastmod>2024-03-04</lastmod>
-  </url>
-  
-  <url>
     <loc>https://james.vanderburg.org/tags/tech/</loc>
     <lastmod>2024-03-04</lastmod>
   </url>
   
   <url>
     <loc>https://james.vanderburg.org/tags/career/</loc>
+    <lastmod>2024-03-04</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://james.vanderburg.org/tags/quotes/</loc>
     <lastmod>2024-03-04</lastmod>
   </url>
 </urlset>
