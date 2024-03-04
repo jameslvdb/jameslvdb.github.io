@@ -1,5 +1,10 @@
 <div class="divide-y divide-solid">
 {% for quote in quoteslist | reverse %}
-  <span>Hello, quote!</span>
+  <div class="text-lg md:text-xl p-4 group">
+    <blockquote class="italic">
+        <a href="{{quote.url | url}}" class="hover:underline">{{ quote.content | safe }}</a>
+    </blockquote>
+    <p class="pl-8 text-gray-600  text-base md:text-lg">&mdash; {{ quote.data.citation | safe }}</p>
+  </div>
 {% endfor %}
 </div>
