@@ -5,12 +5,13 @@ layout: layouts/base.njk
 
 <em class="prose md:prose-xl">{{ date | readableDate }}</em>
 
-<article class="prose md:prose-xl py-4 max-w-none prose-a:text-blue-600 hover:prose-a:text-blue-800"
+<article class="prose md:prose-xl py-4 max-w-none prose-a:text-blue-600 hover:prose-a:text-blue-800">
   {{ content | safe }}
-</article
+</article>
 
 <hr>
-<ul>
+
+<ul class="list-disc prose md:prose-xl pt-4 prose-a:text-blue-600 hover:prose-a:text-blue-800">
   {%- set nextPost = collections.posts | getNextCollectionItem(page) %}
   {%- if nextPost %}<li>Next: <a href="{{ nextPost.url | url }}">{{ nextPost.data.title }}</a></li>{% endif %}
   {%- set previousPost = collections.posts | getPreviousCollectionItem(page) %}
