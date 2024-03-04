@@ -1,11 +1,12 @@
 ---
+title: About Me
 layout: layouts/markdown.njk
 eleventyNavigation:
     key: About
-    order: 3
+    order: 4
 ---
 
-# About Me
+<h1 class="text-5xl font-black">About Me</h1>
 
 I'm **James Vanderburg**. I currently work for the [PGA of America](https://www.pga.com) as a software engineer and a tech lead. I help build the PGA Coach and MyPGA apps, which support the golf coaching businesses of PGA Professionals nationwide. I primarily write software with Ruby on Rails and React, although Elixir has been occupying much of my tinkering lately.
 
