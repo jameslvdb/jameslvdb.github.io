@@ -1,7 +1,10 @@
 ---
-title: Advice for Young Developers
+title: The Game of School
 date: 2024-03-03
-tags: posts
+tags: 
+    - posts
+    - tech
+    - career
 layout: layouts/post.njk
 draft: true
 ---
