@@ -7,25 +7,20 @@ tags:
 layout: layouts/post.njk
 draft: true
 ---
-Howdy, everyone. Starting a career in software engineering is an interesting 
-journey. Many of you have probably seen the "A Day in My Life as a Software 
-Engineer" videos from engineers at Amazon or Google, and I think it gives a 
-bit of a warped perspective on what your early career will look like.
-
-Some background on me: I'm 26 years old (at time of writing) and I'm in the
-fifth year of my career as a software engineer. I'm a full-stack developer
-working in Ruby on Rails and React. 
-
-## From Student to Employee
+Starting a career in software engineering is an interesting journey. Many of you
+have probably seen the "A Day in My Life as a Software Engineer" videos from
+engineers at huge tech companies like Amazon or Google, and I think it gives a
+bit of a warped perspective on what your early career will look like. They give
+a decent glimpse of what your day-to-day might look like, but they often fall
+short of telling you how your career as a professional will differ from your
+career as a student.
 
 One of the most important revelations I have had in my career was when I figured
-out the difference between school and work. Many thanks to [Ken
+out the key difference between school and work. Many thanks to [Ken
 Kousen](https://www.kousenit.com/) for articulating this in his book [_Help Your
 Boss Help You_](https://pragprog.com/titles/kkmanage/help-your-boss-help-you/).
 It's a short read and is packed with great information for young professionals,
 but none have helped me more than this one. 
-
-### The Game of School
 
 When you're in school, your teachers (if they're good ones) all have the same
 goal: teaching you the course material. This is especially clear in grade
@@ -44,8 +39,6 @@ for showing your work incentivizes students to give long, verbose answers. Many
 students figure out how this system works, and we end up getting really good at
 **the game of school.**
 
-### The Game of Work
-
 In the corporate world, the game of school no longer applies. Let's say your
 manager comes to you and asks "Hey, do you know how to add a new view to our
 database schema?" If you haven't used views before, you might not know how to
@@ -54,15 +47,14 @@ an answer that might earn you half points on a SQL pop quiz.
 
 The secret that completely changed my perspective on questions from my manager
 is that if someone in the office asks you a question, it's because they **don't
-know the answer.**
+know the answer.** You might get questions from managers or PMs asking about the
+status of a ticket or story. For a long time, I heard this kind of question and
+thought it was a slightly passive-aggressive way of telling me "Hey! Hurry up!"
+More often than not, the ask the question because a stakeholder asked for an
+update, and they **don't know the answer.** 
 
-If you don't actually know, the answer your manager is looking for is "no".
-
-The better form of this answer is "no, but I'll find out."
-
-You'll often get questions from managers or PMs asking about the status of a
-ticket or story. For a long time, I heard this kind of question and thought it
-was a slightly passive-aggressive way of telling me "Hey! Hurry up!" More often
-than not, the question is asked because they **don't know the answer**. If the
-status of the ticket is continuously updated in your team's project management
-system (Jira, Trello, etc.), then they wouldn't need to ask. 
+Shifting your mindset to understand questions this way is difficult at first.
+But the beauty of it is that viewing a question through this new lens makes
+answering the question less stressful. The only reason that they're asking you
+the question is so they can move forward. The other important secret is that
+they don't need a perfect answer. I 
