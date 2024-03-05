@@ -7,4 +7,9 @@ eleventyNavigation:
 <h1 class="text-5xl font-black pb-8">Archive</h1>
 
 {% set postslist = collections.posts %}
+{% if postslist | length %}
 {% include "postslist.njk" %}
+{% else %}
+<div class="text-2xl font-bold">No posts found</div>
+{% endif %}
+

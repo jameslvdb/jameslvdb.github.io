@@ -4,7 +4,7 @@ tags:
     - tech
     - career
 date: 2024-03-04
-draft: false
+draft: true
 ---
 The **tech lead** role has been rather well-defined lately. Most people seem to
 agree that being a tech lead requires an engineer to have a high level of
