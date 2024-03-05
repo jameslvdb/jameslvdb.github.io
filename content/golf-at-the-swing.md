@@ -4,7 +4,7 @@ layout: layouts/markdown.njk
 # Golf at The Swing
 
 Working at the [PGA of America](https://www.pga.com) has its perks. Part of the
-PGA Frisco campus is The Swing, a 10-hole, par-30 short course designed by Gil
+PGA Frisco campus is The Swing, a 10-hole, par-3 short course designed by Gil
 Hanse and Beau Welling. The longest hole on the course is about 100 yards. It's
 a great place to work on your short game. 
 
