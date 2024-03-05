@@ -17,6 +17,6 @@ and walking back is about 4,500 steps. Not too bad!
 I'll be updating this page with my stats as I play the swing this month. I'll be
 keeping track of things like putts and greens in regulation on top of my score.
 
-{% for round in collections.the-swing %}
-  {{ round.content }}
-{% endfor %}
+| Date          | Score    | Greens in Regulation | Putts |
+| ------------- | -------- | -------------------- | ----- |
+| March 4, 2024 | 46 (+16) | 0                    | 17    |
