@@ -1,8 +1,5 @@
 ---
 layout: layouts/markdown.njk
-eleventyNavigation:
-  key: Home
-  order: 1
 ---
 
 # Howdy!
