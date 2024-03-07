@@ -21,3 +21,4 @@ keeping track of things like putts and greens in regulation on top of my score.
 | ------------- | -------- | -------------------- | ----- |
 | March 4, 2024 | 46 (+16) | 0                    | 17    |
 | March 5, 2024 | 56 (+26) | 4                    | 26    |
+| March 6, 2024 | 48 (+18) | 0                    | 18    |
